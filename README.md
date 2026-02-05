@@ -132,7 +132,7 @@ The **best-performing models** for classification were:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/bhutto17/Automated-Customer-Complaints-Classification-Leveraging-NLP-and-Machine-Learning.git
+   git clone https://github.com/Treonix-in/customer-complaint-classification-ai.git
    ```
 2. Install the required dependencies:
    ```bash
@@ -144,9 +144,3 @@ The **best-performing models** for classification were:
    ```
 
 ---
-
-## **Author**
-**Faizan Bhutto**  
-[LinkedIn](https://www.linkedin.com/in/faizanbhutto) | [GitHub](https://github.com/bhutto17)
-
-Feel free to reach out if you have any questions or feedback regarding this project.
