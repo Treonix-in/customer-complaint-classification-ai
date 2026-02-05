@@ -16,7 +16,7 @@ The aim of this project is to leverage **Natural Language Processing (NLP)** and
 6. [Results](#results)
 7. [Technologies Used](#technologies-used)
 8. [How to Run the Project](#how-to-run-the-project)
-9. [Author](#author)
+
 
 ---
 
